@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 Sou estudante de Engenharia de Software, com interesse crescente em Análise de Dados.<br><br>👯 Estou em busca de oportunidades como Estagiário ou Desenvolvedor Júnior, com o objetivo de adquirir experiência no mercado de trabalho.<br><br>🌱 Atualmente, estou estudando Python, React, JavaScript e SQL.<br><br>💬 Tenho 19 anos e estou determinado a iniciar minha carreira na área de tecnologia o mais cedo possível!
 
 
