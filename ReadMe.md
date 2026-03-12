@@ -1,7 +1,7 @@
 #  About Me:
 
 Hey there! I'm Nicolas, a 20-year-old Software Engineering student and Software Developer at New Byte.
-I work daily with technologies like Typebot, n8n, workflow automations, and AI integrations — building solutions that connect systems and make things actually work together.
+I work daily with technologies like Typebot, n8n, workflow automations, and AI integrations, building solutions that connect systems and make things actually work together.
 My main passion lies in backend development: the logic, the architecture, the invisible layer that makes everything tick. I love understanding how things work under the hood and building systems that are reliable and scalable.
 Always learning, always building. 
 
